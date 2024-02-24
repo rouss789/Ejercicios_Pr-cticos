@@ -1,0 +1,29 @@
+.head {
+  color: #ffffff;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:#00161c;
+}
+
+.head__logo {
+  width: 58px;
+  height: 58px;
+}
+
+.head__navegacion {
+  display: flex;
+}
+.head__enlaceItems {
+  font-size: 22px;
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+
+.head__enlace > a {
+  padding-right: 40px;
+  text-decoration: none;
+}
