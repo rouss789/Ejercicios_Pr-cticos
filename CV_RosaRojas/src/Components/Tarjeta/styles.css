@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.titulo {
+  background-color: rgba(0, 0, 0, 0.478);
+  font-size: 20px;
+  border-radius: 10px;
+  width: 180px;
+  text-align: center;
+}
+
+.titulotercernivel {
+  background-color: red;
+  font-size: 16px;
+  width: 200px;
+}
+
+.titulosobremí {
+  background-color: blue;
+  font-size: 16px;
+  border: "7px solid red";
+}
+
+.texto {
+  font-size: 14;
+  width: 600px;
+  text-align: justify;
+}/*# sourceMappingURL=styles.css.map */
